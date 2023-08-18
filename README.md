@@ -1,2 +1,2 @@
-# hello-world
+# Our first exercise!
 Hello World
