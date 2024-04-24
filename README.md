@@ -1,2 +1,2 @@
-# Our first exercise!
+# Our first exercise Javascript!
 Hello World !
